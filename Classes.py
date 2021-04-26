@@ -14,7 +14,7 @@ class Book:
 
 # make it inittialise
 
-s = Book("Dan Brown") # Here, I'm creating s as a object (self) and then im using to call to print the damn thing 
+s = Book("Charlie Sheen") # Here, I'm creating s as a object (self) and then im using to call to print the damn thing 
 print(s.title)
 
 print(s)
