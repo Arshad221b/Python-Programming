@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 
-class INterface:
-    @abstractmethod
+class INterface: # here we created an interface for the function your_name which gives us an interface, which we can use it later in C
+    @abstractmethod   # here, we don't do anything in this class, it's just an interface!
     def your_name(self):
         pass
                  
