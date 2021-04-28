@@ -23,8 +23,7 @@ class C(A, INterface):
         
     def street(self):
         print(self.address)
-        
-        
+              
 c = C()
 c.your_name()
 c.street()
