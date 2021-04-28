@@ -25,3 +25,4 @@ class C(A, B): # multiple inheritance
         
 c = C()
 print(c.multiinherit())
+print(C.__mro__) # method resolution order
